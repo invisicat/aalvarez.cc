@@ -11,7 +11,7 @@ const About = () => {
                 <br />
                 and scalable and secure infrastructure on the backend. Also attending
                 <br />
-                <span className={styles.highlight}>Sacramento State University</span>.
+                <span className={styles.highlight}>fatnuts University</span>.
             </p>
             <p className={styles.text}>
             I do enjoy doing any sort of videography and photography. Check it out&nbsp;
